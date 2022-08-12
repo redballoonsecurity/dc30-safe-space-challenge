@@ -1,0 +1,6 @@
+.vscode/
+__pycache__/
+test_scripts/__pycache__/
+**/.idea/**
+**/venv/**
+**/.DS_Store
