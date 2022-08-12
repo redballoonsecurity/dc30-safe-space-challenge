@@ -116,7 +116,7 @@ Good luck. Red Balloon Security's Interstellar division is counting on you!
 
 ### Challenge Logistics
 
-Email us the source code for your solutions at safespacectf@redballoonsecurity.com by 3pm Saturday 8/13. Once we pick the winners on Saturday, we'll let them know by email when to expect their prizes.
+Email us the scripts for your binary patching solutions at safespacectf@redballoonsecurity.com by 3pm Saturday 8/13. Once we pick the winners on Saturday, we'll let them know by email when to expect their prizes.
 
 Oh snap, the prizes! For each of the top three submissions that we think are the "best" solutions, we'll mail a built-out [Antenny board](https://github.com/RedBalloonShenanigans/antenny), plus our usual healthy helping of swag.
 
