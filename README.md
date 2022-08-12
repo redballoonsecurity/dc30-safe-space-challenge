@@ -1,4 +1,4 @@
-# DEFCON 30 Aerospace Village CTF
+# DEFCON 30 Aerospace Village Challenge
 # Safe Space
 
 This challenge is about using binary patching techniques to solve a real-world problem. Let's say there is a bug in a spacecraft's firmware. In this environment, upload bandwith is extremely limited, so there are two objectives:
